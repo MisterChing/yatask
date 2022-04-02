@@ -1,4 +1,4 @@
-module yatask
+module github.com/MisterChing/yatask
 
 go 1.17
 
